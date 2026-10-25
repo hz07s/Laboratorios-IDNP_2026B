@@ -1,0 +1,12 @@
+id;nombre;categoria;descripcion;imagen
+1;Biblioteca Central;Estudio;Préstamo de libros, hemeroteca y salas de estudio;biblioteca
+2;Pabellón Nicholson;Académico;Sede de Ingeniería Industrial, con el vitral que da a la Av. Independencia;-
+3;Pabellón de Ingeniería Civil;Académico;Aulas, auditorios y laboratorios de Ingeniería Civil;-
+4;Pabellón de Ingeniería Electrónica;Académico;Aulas y laboratorios de Ingeniería Electrónica;-
+5;Pabellón de Ingeniería Química;Académico;Aulas y laboratorios de Ingeniería Química;-
+6;Facultad de Arquitectura;Académico;Talleres de diseño y aulas de Arquitectura;-
+7;Hexágonos;Académico;Aulas de planta hexagonal, de las construcciones más antiguas del área;-
+8;Pabellón de la Cultura;Cultura;Uno de los pabellones más antiguos del área de Ingenierías;-
+9;Auditorio;Eventos;Conferencias, ceremonias y eventos académicos;auditorio
+10;Comedor Universitario;Servicios;Servicio de alimentación para estudiantes;comedor
+11;CIALE de Ingenierías;Investigación;Centro de investigación con laboratorios especializados;-
